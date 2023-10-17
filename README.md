@@ -1,5 +1,5 @@
 # MBTI
-Date : 2023.10.12~16
+Date : 2023.10.12~17
 
 Data : MBTI-personality-test.pdf
 
